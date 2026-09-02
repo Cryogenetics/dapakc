@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-only.txt"
+hash = "5090e05f5e2f1b332cda11bc21a91b8fe85d09f70aadee2a8818446691a2bc2b"
+
+[[files]]
 file = "config/ModernUI/D-DIN-PRO-400-Regular.ttf"
 hash = "43a13a27d9c67e96efab806b9396ffec7d256ca1b424589f09ee9a5d48f653fc"
 
@@ -10026,7 +10030,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+hash = "466e323306e7cd07c2fd167b30ecdfbc6a15fc6403cd2859acf7831c384d2433"
 metafile = true
 
 [[files]]
@@ -10041,12 +10045,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+hash = "0aefabc3993c780f44f02e6e88b7acdba7ea5f6f7b5f1be760246bfdc3d99749"
 metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "044bb7a0b26348cd286ac0db4ff266d5527be16e2c6bb58eb9a538830746a4d8"
+hash = "1a2d77d1f57e6b4115bf8c16acfec107a6d8f7a957ab5f4c2e5ee1c11b037eb3"
 metafile = true
 
 [[files]]
@@ -10066,7 +10070,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-music.pw.toml"
-hash = "2bfde7420cf8acc7016d12a367363a0c4c7081343a45704d317481e2b5eedd5c"
+hash = "e0205d69606d502a7b755c5f6a29cd89ff38854dc4ea7405ca13cf28b3891c9e"
 metafile = true
 
 [[files]]
@@ -10106,7 +10110,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
 metafile = true
 
 [[files]]
@@ -10116,7 +10120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "88bb05a808342243ee895411ab20d40f8de8469ae86a3f08e11e5d7774423c0c"
+hash = "04f9f2084c9a4b2bd13bcee34efed945d9c2e767eb0493d37a92ab0c967ff225"
 metafile = true
 
 [[files]]
@@ -10141,7 +10145,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
@@ -10256,7 +10260,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
 metafile = true
 
 [[files]]
@@ -10271,7 +10275,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -10286,7 +10290,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
+hash = "0428859074e9be199e700f0a9724fbe6541f081529198a74e719175b539c5051"
 metafile = true
 
 [[files]]
@@ -10301,7 +10305,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
+hash = "db24e053442fe37bee661829152d3e88fe4921683de4a2eca63a4ddc6605bb55"
 metafile = true
 
 [[files]]
@@ -10336,7 +10340,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "a4b76d40ded1bc2bb868eeda73bdd87a45fb42b9f62d75f0b85ef516dbaa9526"
+hash = "e42c5d0fe2c09dcd37aa7222752499014b4a95ee2d78ca310d0a70664562896b"
 metafile = true
 
 [[files]]
@@ -10381,17 +10385,17 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "885f3afbb1188b7e9272c55ea328d186fa7ddd45f65bcd33b2b610d8d55baf00"
+hash = "61bd3506985b588254e26cdd813196e8fdb082dd2ae96a022c1724a862d48d8d"
 metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
+hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "0719d519c397abbee2665db941229e0488416650322f9e7d5c388db97b8cf7b1"
+hash = "f48b37e307ca9182f8707e319c24c989f3f6b19ac663b0ec938fea95b4a330a0"
 metafile = true
 
 [[files]]
@@ -10491,7 +10495,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eb089373d47632a85bb7596b1143b719d7675f5e2782586aa0c340069d699700"
+hash = "996469168e48362730b42aad58dc3eaff0e22637e140013b5ef11552c4b4ab8e"
 metafile = true
 
 [[files]]
@@ -10501,7 +10505,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
+hash = "9928c8f1f67cdc3ccdddef9fe63831a328b44dca1f6be9ebc086fc7d25747826"
 metafile = true
 
 [[files]]
@@ -10556,7 +10560,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-characters.pw.toml"
-hash = "9ffdd32c4b194d29d71bfc885644a069f40f24d07d05e3e44d79db591b8be259"
+hash = "74d97ed7a678699fea62b4010c699f1d3514363f96e807a14c368edf20c3f9ac"
 metafile = true
 
 [[files]]
@@ -10651,12 +10655,12 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
+hash = "0bb674b857580f12bd2c422af10506d98948b65838992fa7fc53c2e597cdbc56"
 metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "2ebcddfa11add6526696755598ed6a9aa651c3036d3ac8fd350113f58dfba0f9"
+hash = "38c13fa6faec7164e3957dc6790d6e6bffc77b0f76a90ff9bae82d24656cc34b"
 metafile = true
 
 [[files]]
@@ -10716,7 +10720,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -10726,7 +10730,7 @@ metafile = true
 
 [[files]]
 file = "mods/opack2reload.pw.toml"
-hash = "dc1624a775abc949b28e39516e142ccd11f39da14f7d77d0d9ca8c0b4d8001a0"
+hash = "5d7ab51101a26925653c99ba3fea316304970da45cbea5bf8a326edcb54e631f"
 metafile = true
 
 [[files]]
@@ -10736,7 +10740,7 @@ metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
-hash = "460172a12bf51c500547b3b961785d8e036ce5e6f0318d6d20dad8d69deeae1b"
+hash = "4c1f6dcff3caee73a2f4059d4ccc3fda792cfffcde94329b2d4a390e2fc6ec45"
 metafile = true
 
 [[files]]
@@ -10781,7 +10785,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "d1c2d0649a28881f034d4a1f771a9cac22e6f1bbbeb110f0c118d6739e8711cb"
+hash = "e04cbb41f59edb6ae53c19ee8ef20ef090f05b76a4ad967b8f780220ac4ee421"
 metafile = true
 
 [[files]]
@@ -10826,7 +10830,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
 metafile = true
 
 [[files]]
@@ -10846,7 +10850,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+hash = "bec4fd7f9b90e9040786e31d14bf4af7fb42fce842b9f5acfdd0821c973ecb82"
 metafile = true
 
 [[files]]
@@ -10936,7 +10940,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-ponder.pw.toml"
-hash = "f55c37b24c69aa3a0cefc76ae296929d5eed8045a24649ea58a0d2ba980a95f0"
+hash = "320b8fd037547a251bcce2d15b9576a8ae650358882ee080c31ffb0fc604131c"
 metafile = true
 
 [[files]]
@@ -10986,7 +10990,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-titles.pw.toml"
-hash = "dec5a52502d55acaa36a0b3f21a533a43e392e5bfd7e9053bed347e8dba8b8bc"
+hash = "546925f67d4dd17ea5f2717efde7991e8c61540e81319507f1fe1daa016a819f"
 metafile = true
 
 [[files]]
@@ -11021,7 +11025,7 @@ metafile = true
 
 [[files]]
 file = "mods/x-autofish.pw.toml"
-hash = "a5b987a4e2d6bba57c3a843050202aa48e476fbe4cd8eb78f9d9526067f3589b"
+hash = "ad6d0a31375d395fdce47e7cce8c3f4832a9e6f6f25f9c63e8384366e10846ce"
 metafile = true
 
 [[files]]
@@ -11036,7 +11040,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
+hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
 
 [[files]]
