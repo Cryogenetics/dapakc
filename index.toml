@@ -11293,6 +11293,10 @@ file = "options.txt"
 hash = "a9eef5f6f1fdc2157040eeabe12142995780fca7a614f9704b70b6a0eea397d4"
 
 [[files]]
+file = "remote.toml"
+hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
+
+[[files]]
 file = "resourcepacks/AE2-1.20.1-Guide-zh_CN_v2.0.zip"
 hash = "1b0e56cbb6c6c613060aaf6c086e0bfac5b868a6a0f549179cab6aa968b9064b"
 
@@ -11336,4 +11340,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
