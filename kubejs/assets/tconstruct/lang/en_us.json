@@ -1,0 +1,14 @@
+{
+  "modifier.kubejs.snowcity": "Snow City",
+  "modifier.kubejs.snowcity.flavor": "Snow_city~",
+  "modifier.kubejs.snowcity.description": "CTNH Gold Server!",
+  "material.gtceu.snow_steel": "Snow Steel",
+  "material.gtceu.snow_steel.flavor": "May Snow_city bless you.",
+  "modifier.kubejs.fortification": "§eLich Shield",
+  "modifier.kubejs.fortification.flavor": "§eIf you are the Lich King, then who am I?",
+  "modifier.kubejs.fortification.description": "§eGenerates a shield upon taking damage based on the level. The effect is identical to the Shield Scepter (each level adds one shield layer and slightly reduces cooldown).",
+  "material.tconstruct.whitestone.composite": "Composite",
+  "material.tconstruct.whitestone.aluminium": "Aluminium",
+  "material.tconstruct.whitestone.tin": "Tin",
+  "material.tconstruct.whitestone.zinc": "Zinc"
+}

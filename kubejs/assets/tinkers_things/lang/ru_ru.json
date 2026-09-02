@@ -1,0 +1,18 @@
+{
+  "material.tinkers_things.hematite": "Гематит",
+  "material.tinkers_things.hematite.flavor": "Кровавый камень, который многие считают мифом и которого боятся многие.",
+  "material.tinkers_things.hematite.encyclopedia": "Предоставляет два дополнительных слота для улучшений за счет -3 урона нежити и -6 скорости добычи руды, бревен и грязи.",
+  "material.tinkers_things.hematite.armor": "Предоставляет два дополнительных слота защиты за счет -5% защиты от всех источников.",
+  "material.tinkers_things.silky_cloth": "Шелковистая ткань",
+  "material.tinkers_things.silky_cloth.flavor": "Так нежно на твоей коже!",
+  "material.tinkers_things.silky_cloth.armor": "Предоставляет дополнительный слот способностей за 3 максимальных здоровья.",
+  "material.tinkers_things.silky_cloth.ranged": "Дает +1 к мощности, но ограничивает угол полета снаряда.",
+  "material.tinkers_things.silky_cloth.ammo": "Дает +0,5 мощности, но ограничивает угол полета снаряда.",
+  "material.tinkers_things.magmaskin": "Магмаскин",
+  "material.tinkers_things.magmaskin.flavor": "Обязательная шутка о коже",
+  "material.tinkers_things.magmaskin.encyclopedia": "Дает +100% ко всем методам восстановления слизи.",
+  "material.tinkers_things.veinline": "родословная нить",
+  "material.tinkers_things.veinline.flavor": "кровь течет бесконечно",
+  "material.tinkers_things.veinline.encyclopedia": "Дает 1 дополнительный слот защиты.",
+  "material.tinkers_things.veinline.ranged": "Дает 1 дополнительный слот защиты."
+}

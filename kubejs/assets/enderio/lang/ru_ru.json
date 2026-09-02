@@ -1,0 +1,17 @@
+{
+  "block.enderio.aversion_obelisk": "исключить обелиск",
+  "gui.enderio.conduit.priority": "приоритет",
+  "gui.enderio.conduit_probe.message.copied": "Скопированные данные: %s",
+  "gui.enderio.conduit_probe.message.pasted": "Вставленные данные: %s",
+  "gui.enderio.conduit_probe.mode.switched": "Переключить режим детектора катетера на: %s",
+  "item.enderio.conduit_probe": "катетер детектор",
+  "item.enderio.entity_filter": "Фильтр сущности души",
+  "keybinding.enderio.category": "ЭндерИО",
+  "keybinding.enderio.probe_mode": "Изменить режим детектора катетера",
+  "tooltip.enderio.conduit.fluid.multi": "Позволяет подавать несколько жидкостей в одном трубопроводе.",
+  "tooltip.enderio.conduit.fluid.rate": "Скорость передачи %s мБ/т",
+  "tooltip.enderio.conduit_probe.mode": "Режим: %s",
+  "tooltip.enderio.conduit_probe.mode.contains_copied": "Скопированные данные катетера:",
+  "tooltip.enderio.conduit_probe.mode.copy_paste": "скопировать и вставить",
+  "tooltip.enderio.conduit_probe.mode.probe": "Обнаружение (не реализовано)"
+}

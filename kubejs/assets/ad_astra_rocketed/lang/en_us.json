@@ -1,0 +1,8 @@
+{
+  "item.ad_astra_rocketed.tier_5_rocket": "fifth stage rocket",
+  "item.ad_astra_rocketed.tier_6_rocket": "Sixth stage rocket",
+  "item.ad_astra_rocketed.tier_7_rocket": "Seventh stage rocket",
+  "entity.ad_astra.tier_5_rocket": "fifth stage rocket",
+  "entity.ad_astra.tier_6_rocket": "Sixth stage rocket",
+  "entity.ad_astra.tier_7_rocket": "Seventh stage rocket"
+}

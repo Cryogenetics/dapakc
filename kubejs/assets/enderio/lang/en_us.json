@@ -1,0 +1,13 @@
+{
+  "block.enderio.aversion_obelisk": "exclude obelisk",
+  "gui.enderio.conduit.priority": "priority",
+  "gui.enderio.conduit_probe.mode.switched": "Switch catheter detector mode to: %s",
+  "item.enderio.conduit_probe": "catheter detector",
+  "item.enderio.entity_filter": "Soul Entity Filter",
+  "keybinding.enderio.probe_mode": "Modify Catheter Detector Mode",
+  "tooltip.enderio.conduit.fluid.multi": "Allows delivery of multiple fluids in the same conduit",
+  "tooltip.enderio.conduit.fluid.rate": "Transfer rate %s mB/t",
+  "tooltip.enderio.conduit_probe.mode.contains_copied": "Copied catheter data:",
+  "tooltip.enderio.conduit_probe.mode.copy_paste": "copy paste",
+  "tooltip.enderio.conduit_probe.mode.probe": "Detection (not implemented)"
+}
