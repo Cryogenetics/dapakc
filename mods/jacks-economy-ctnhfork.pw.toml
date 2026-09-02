@@ -1,0 +1,13 @@
+name = "Jack's Economy-CTNHfork"
+filename = "jackseconomy-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7b379c32db27f87bbe2832a8abb4941d89ab5cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6725961
+project-id = 1280460
