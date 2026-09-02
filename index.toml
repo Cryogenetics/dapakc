@@ -10125,6 +10125,11 @@ hash = "04f9f2084c9a4b2bd13bcee34efed945d9c2e767eb0493d37a92ab0c967ff225"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "2274e08910d949f9962383e2314e8d42490f2e8195782786392614d0f0879629"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "3cdf0c628239ca09dd0378d39008729b17d4916aeed9e60c0b2d75f5bcc3b4be"
 metafile = true
@@ -10911,7 +10916,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+hash = "0ef2a47f506c83478052262348c105c307d970fbff3f6b0917e46d67f61d8953"
 metafile = true
 
 [[files]]
