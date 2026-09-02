@@ -10230,6 +10230,11 @@ hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
@@ -10722,6 +10727,11 @@ metafile = true
 [[files]]
 file = "mods/nan-health-fixer.pw.toml"
 hash = "6784868f7f8cdf15bcae5dadeff2651712e78fe3bb7a699c0664ddff7ebab8b7"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "2674d6bbb1172447732119051e0621f0c8619bf63f4dfaa1ff81afd98f019a5e"
 metafile = true
 
 [[files]]
