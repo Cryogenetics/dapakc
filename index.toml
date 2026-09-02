@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "client-only.txt"
-hash = "5090e05f5e2f1b332cda11bc21a91b8fe85d09f70aadee2a8818446691a2bc2b"
-
-[[files]]
 file = "config/ModernUI/D-DIN-PRO-400-Regular.ttf"
 hash = "43a13a27d9c67e96efab806b9396ffec7d256ca1b424589f09ee9a5d48f653fc"
 
@@ -10844,6 +10840,11 @@ hash = "684976b552a360ba11ef2533390061835e8370249f17c3a9fc0f4ed9b0a632a2"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a577727b4b1fa0dd483e75c451d89840cb7231a4565d55b873e89eebd35708d2"
+metafile = true
+
+[[files]]
 file = "mods/smsn.pw.toml"
 hash = "76c65def57f5c22dbd407c79b21f2a20e47fdfdec8624e9b1757de97d89a5f52"
 metafile = true
@@ -10875,7 +10876,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
@@ -11092,3 +11093,13 @@ hash = "b7fe04943cbb770e508e74710a0d78ed0031db43d5ec31b4a79db7f1768a7cd6"
 [[files]]
 file = "schematics/四阶工业血之祭坛.nbt"
 hash = "694cac7e9ff82fe6be89c90c029fc07a2e5b45445d78492067bfca52ed1e5a55"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "6c3e383528781963424860b339d4895a04f46405c1c730bdd7bfbc0ecc7ab3f7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
