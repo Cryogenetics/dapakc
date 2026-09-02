@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/ModernUI/D-DIN-PRO-400-Regular.ttf"
 hash = "43a13a27d9c67e96efab806b9396ffec7d256ca1b424589f09ee9a5d48f653fc"
 
@@ -9877,10 +9881,6 @@ file = "kubejs/server_scripts/src/enderio/enderio.js"
 hash = "5fda413ce3d11cd26d6355ae6e013fca2a0746e1df96953b0946bbe9c8f03cd2"
 
 [[files]]
-file = "kubejs/server_scripts/src/entityEvent.js"
-hash = "17eb222ea54336c50a82c09f822d64ac6c37b81090f87f49376081c041aa31b6"
-
-[[files]]
 file = "kubejs/server_scripts/src/event.js"
 hash = "5c34a7543a715fdf2d055629d1fc42da0124c1f9f783cffbf725b6e91d3475a7"
 
@@ -10859,11 +10859,6 @@ hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
 metafile = true
 
 [[files]]
-file = "mods/maidusehandcrank.pw.toml"
-hash = "078e9a26291184767c4558e3f9d303d89e4d3984b64e51a4bf0646f48b4bd3a3"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
 metafile = true
@@ -11216,11 +11211,6 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
-metafile = true
-
-[[files]]
-file = "mods/touhou-little-maid.pw.toml"
-hash = "377312e6fcc4c84c0e0f88879db421129edc894b2d2d3d4941917b369bb1d6f8"
 metafile = true
 
 [[files]]
