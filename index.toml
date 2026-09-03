@@ -997,10 +997,6 @@ file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "434840d99ab6a029d1421738b1320c619b6cf8d4e07dba66785c9a89441acc7f"
 
 [[files]]
-file = "how commit-before-your-editoptions.txt  Select-String resourcePacks"
-hash = "74fa4cc7cecb43e8944825786c15ab1eebfd18efd29e48c0d7eb6ec40d526c6f"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
 
@@ -10485,6 +10481,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
