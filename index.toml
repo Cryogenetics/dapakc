@@ -10089,6 +10089,11 @@ file = "kubejs/startup_scripts/src/tconstruct_modifiers_register.js"
 hash = "e80a6a5b5f454719fe71ce45ac7f97f792665c9c161c194d4d75ebefcd58005e"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "aae6e3463d50f1a338ae73c6717d72f56f606dee44ddf457e37f8e056baabe3a"
+metafile = true
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
 metafile = true
@@ -10389,6 +10394,11 @@ hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "c64e1f8850019986e1974adc68edfe7bbcedd3bd7ac2008df07ca32a41f4a574"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "d52e38fb379229c6c3f641933582d96f0908669f7ffbf65a74e01ab672449a9b"
 metafile = true
@@ -10406,6 +10416,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
 
 [[files]]
@@ -10439,8 +10454,23 @@ hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "b6edf645c174173abb72cef12c2dcfb402f449fdba515a55310e52c04d56ffe5"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "4676c3139d385b20863deaf99494c4024ea7b8215e7bf7d82bbc8b7e318bb509"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
+metafile = true
+
+[[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "030dfb371173bb2e779f26208a164643d011f7c6b7ab0114b01e8df86ad5caf5"
 metafile = true
 
 [[files]]
@@ -10544,8 +10574,18 @@ hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "998b8b054badc82168945dc17d76f9ffc50351e8b41883fc5f9e89baf437ed2b"
+metafile = true
+
+[[files]]
 file = "mods/eu-p2p-tunnel.pw.toml"
 hash = "b203c7b6b0685486475cc9a582c362b0becc9f197b31c3bff573a7aec9757be1"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
 metafile = true
 
 [[files]]
@@ -10741,6 +10781,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "a51cc20c4f6b7a64bb2dfcc058466ac65da6b31d20bc87fed02e4ad2a7df2c95"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
 metafile = true
 
 [[files]]
@@ -11069,6 +11114,11 @@ hash = "d218175a2fc0fd2fdb907ed55a214f0163d9bcabb75b47ccdb6f4704c3bd5dd0"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "93128d85ae0b3be9c8248b09f3a63ed88c746568480cc7e9a8e2a9b4bd13477c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
 metafile = true
@@ -11241,6 +11291,11 @@ metafile = true
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
 hash = "a31c8889d42f393a1967de0a7bf3ed0e919f342f40cf94237aba8d2b1cca8e7f"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
