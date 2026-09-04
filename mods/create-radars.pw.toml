@@ -1,0 +1,13 @@
+name = "Create: Radars"
+filename = "create_radar-0.4.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLu2Yqfq/versions/ruxlsWci/create_radar-0.4.6%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "e0d3139334688eb21f12fbc61ecaccb86f8ef71b82732b4dd2e83cc295ccea737409081c6f9a753d9fcad65463cbe83bb3b99d54d1a6e3eb353f3d1f5a0d2157"
+
+[update]
+[update.modrinth]
+mod-id = "BLu2Yqfq"
+version = "ruxlsWci"
