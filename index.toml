@@ -43,6 +43,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/ModernUI/client.toml"
 hash = "904da4aea735db46df2d1e02193eb291c5e3a54158e723c5e3a006122e85133c"
+preserve = true
 
 [[files]]
 file = "config/ModernUI/common.toml"
@@ -55,6 +56,7 @@ hash = "87daf80f027e89a78eb726b98157ca58933f57e09aa1362ace7dee1e82aebf0a"
 [[files]]
 file = "config/ModernUI/text.toml"
 hash = "f5eb1739f919dcb3de6c829952c9a49e5874a221e12b445c425338f544c39e10"
+preserve = true
 
 [[files]]
 file = "config/ModernUI/zqfs.ttf"
@@ -87,6 +89,7 @@ hash = "bd42b92edf765bb13a6589912a9891eb77a86fdd21952b41885c70c87e0f44d0"
 [[files]]
 file = "config/ali/ali_common.json"
 hash = "2fd1f8260b7b94fa85bcf1f3e46edb2089b9903f90a6c5cfcdf844fb6180d7ea"
+preserve = true
 
 [[files]]
 file = "config/almostunified/debug.json"
@@ -527,6 +530,7 @@ hash = "5831a4da569ac4fb3d7d5396967281b8bdad765c25cf3cd5c6a5d708952c2b16"
 [[files]]
 file = "config/chloride-client.json"
 hash = "0bec9211b21746a28b585b898b702af3b10a1b5fcd9019650c4b8558e14dc7c1"
+preserve = true
 
 [[files]]
 file = "config/create_new_age-common.toml"
@@ -534,7 +538,7 @@ hash = "a9fa4685548e652dcd5cf04cef14aecfeb2ddd7e8a321ca0b847834de4cc04be"
 
 [[files]]
 file = "config/ctnhchangelog-client.toml"
-hash = "42e7e48a6c90ee18964db9168d323397efd02bdd3c5ea412b4b39de0b0ff318b"
+hash = "9a28a49a2f8093e6dcaa5e41133403b398d9967c6ce9e9235b3e7e410bbc6e04"
 
 [[files]]
 file = "config/ctnhcore.yaml"
@@ -578,7 +582,7 @@ hash = "796bcf467d2c337adbe894ac30f7c2a53df10a2cc532042a4913eb534967ea0e"
 
 [[files]]
 file = "config/fancymenu/customization/title.txt"
-hash = "2303a7d7b05a254b21039ee435f2bc5a386a8a86f09ae3409051b1b93d0f5d78"
+hash = "621bfdc1cb30d192f659fd988320ca9f6840d7459e0fb1ead847b4763b2c1fc2"
 
 [[files]]
 file = "config/fancymenu/customization/version_update_layout.txt"
@@ -627,6 +631,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "650365ab2f46f06eacdf7be9e5b97fd8bd0ea117d5d7464f4978f16466ae402a"
+preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -639,14 +644,17 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+preserve = true
 
 [[files]]
 file = "config/forge-client.toml"
 hash = "ddfc340bf22bec9f1361f5a01a14212f68e7522681d33c864b3a0f73a1a04d4f"
+preserve = true
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
 hash = "e84ab1c1fb08def9ccba81542696eb828e767b2835cfacc6a713807dce27ede6"
+preserve = true
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -883,6 +891,7 @@ hash = "8c995a45de302015cb5fc60f4edc0aabbb260d9a0c735bc2b77fb6b55d0112a6"
 [[files]]
 file = "config/inventoryhud-client.toml"
 hash = "7fbda3bd604a01ffd8050f77d5c6fb65c4151c9d98bf13f153f730858d3a1e86"
+preserve = true
 
 [[files]]
 file = "config/jackseconomy_prices.json"
@@ -891,26 +900,32 @@ hash = "7e7aa3fab8ba680efe29cb757db072652d292dfb9a96ee186f0d0aff285abe13"
 [[files]]
 file = "config/jade/hide-blocks.json"
 hash = "593c98f5249b3954eb8e1bd7e6cd6e8cfa25ac32b5b62c1b046341ca4b262e47"
+preserve = true
 
 [[files]]
 file = "config/jade/hide-entities.json"
 hash = "fd070ba7cc388b5e06adec34e626592348bdd2b2b3c6fe047af85e56aa6e1bad"
+preserve = true
 
 [[files]]
 file = "config/jade/jade.json"
 hash = "db1a46802bbbe9b0723308c1413ecee26b816d6e200de5c8b00fefc3812a0f17"
+preserve = true
 
 [[files]]
 file = "config/jade/plugins.json"
 hash = "0897d67ae97446e14c340fb03bec5e00db80e0d00c41aa7a93e853e8e6966900"
+preserve = true
 
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "aabf2421dc2fc3c795d4082f413380eecc53c05e77bd52c4cf705d216e2b3522"
+preserve = true
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
 hash = "552b08fe4627a38173aa2f7317c93561d31fc0b0ad96c6949ed8d7d2ec038e49"
+preserve = true
 
 [[files]]
 file = "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
