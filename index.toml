@@ -10500,7 +10500,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash = "2ff90a53074619faf78a7e34e718fff3f2558076e116ac43180134b91c2d61a9"
 metafile = true
 
 [[files]]
@@ -10631,6 +10631,11 @@ metafile = true
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "4db64b70cbc5b078b807402a1e82ad324a44495958c1236390beaaeebf4d689e"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "e8b873d6816a4b1c561a7e8aad5d6859c0ac43ae3fa0b2f529e1a62c315ac43d"
 metafile = true
 
 [[files]]
