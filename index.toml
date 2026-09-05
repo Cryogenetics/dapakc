@@ -11349,10 +11349,6 @@ hash = "bda356adb3a7bb57d65404efc9a54fc14f7a6e031674bdf4d06ea74d608418c0"
 preserve = true
 
 [[files]]
-file = "remote.toml"
-hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
-
-[[files]]
 file = "resourcepacks/AE2-1.20.1-Guide-zh_CN_v2.0.zip"
 hash = "1b0e56cbb6c6c613060aaf6c086e0bfac5b868a6a0f549179cab6aa968b9064b"
 
