@@ -15,7 +15,7 @@
 				"4216BDC61B0ACF4A"
 			]
 			id: "7915B47E2F98366C"
-			subtitle: "这是什么，好吃的？"
+			subtitle: "{ftbquests.chapter.4623BFBDAE151C50.quest1.subtitle}"
 			tasks: [{
 				id: "0320BB89FE13FFA5"
 				item: "gtmfo:smore_1"
@@ -26,9 +26,9 @@
 		}
 		{
 			dependencies: ["7915B47E2F98366C"]
-			description: ["我"]
+			description: ["{ftbquests.chapter.4623BFBDAE151C50.quest2.description1}"]
 			id: "3645A648222B33E2"
-			subtitle: "这是什么，更好吃的！"
+			subtitle: "{ftbquests.chapter.4623BFBDAE151C50.quest2.subtitle}"
 			tasks: [{
 				id: "39AF75C94AF97933"
 				item: "gtmfo:smore_2"
@@ -39,9 +39,9 @@
 		}
 		{
 			dependencies: ["3645A648222B33E2"]
-			description: ["我已"]
+			description: ["{ftbquests.chapter.4623BFBDAE151C50.quest3.description1}"]
 			id: "2E195578A20BBDCF"
-			subtitle: "这是什么？！"
+			subtitle: "{ftbquests.chapter.4623BFBDAE151C50.quest3.subtitle}"
 			tasks: [{
 				id: "211B5313300D3CEE"
 				item: "gtmfo:smore_4"
@@ -52,7 +52,7 @@
 		}
 		{
 			dependencies: ["2E195578A20BBDCF"]
-			description: ["我已启动"]
+			description: ["{ftbquests.chapter.4623BFBDAE151C50.quest4.description1}"]
 			id: "50E51131E1AFD4AA"
 			subtitle: "？？？？"
 			tasks: [{
@@ -66,8 +66,8 @@
 		{
 			dependencies: ["50E51131E1AFD4AA"]
 			description: [
-				"我已启动"
-				"我已启动我已启动"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest5.description1}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest5.description2}"
 			]
 			id: "5917443DD0202A61"
 			subtitle: "？？？？"
@@ -82,9 +82,9 @@
 		{
 			dependencies: ["5917443DD0202A61"]
 			description: [
-				"我已启动"
-				"我已启动我已启动"
-				"我已启动我已启动我已启动我已启动"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest6.description1}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest6.description2}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest6.description3}"
 			]
 			id: "14CDDDD47C429CB9"
 			subtitle: "？？？？"
@@ -99,13 +99,13 @@
 		{
 			dependencies: ["14CDDDD47C429CB9"]
 			description: [
-				"我已启动"
-				"我已启动我已启动"
-				"我已启动我已启动我已启动我已启动"
-				"我已启动我已启动我已启动我已启动我已启动我已启动我已启动我已启动"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest7.description1}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest7.description2}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest7.description3}"
+				"{ftbquests.chapter.4623BFBDAE151C50.quest7.description4}"
 			]
 			id: "3C0DAF00FC0B83F5"
-			subtitle: "我已启动"
+			subtitle: "{ftbquests.chapter.4623BFBDAE151C50.quest7.subtitle}"
 			tasks: [{
 				id: "408DD310C40A7543"
 				item: "gtmfo:smore_64"
@@ -521,5 +521,5 @@
 			y: 8.0d
 		}
 	]
-	title: "格雷盛宴"
+	title: "{ftbquests.chapter.4623BFBDAE151C50.title}"
 }

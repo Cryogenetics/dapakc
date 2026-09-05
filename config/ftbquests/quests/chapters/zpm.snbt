@@ -332,7 +332,7 @@
 						}]
 						RepairCost: 1
 						display: {
-							Name: "{\"text\":\"我跟光伏等离子硅岩堆在一起排名，真的假的\"}"
+							Name: "{\"text\":\"I'm ranked together with Solar, Plasma, and Naquadah? Really?\"}"
 						}
 					}
 				}

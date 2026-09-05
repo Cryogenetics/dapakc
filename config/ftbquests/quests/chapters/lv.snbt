@@ -9,7 +9,7 @@
 	quest_links: [{
 		id: "458DBA0428F69CAB"
 		linked_quest: "3C15632B9697C37D"
-		title: "LV如何发电"
+		title: "{ftbquests.chapter.lv.quest_link.458DBA0428F69CAB.title}"
 		x: -7.0d
 		y: 0.5d
 	}]

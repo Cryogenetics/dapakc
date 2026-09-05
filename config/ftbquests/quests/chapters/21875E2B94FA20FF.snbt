@@ -12,7 +12,7 @@
 			id: "3AC9BB1FF032B398"
 			shape: "octagon"
 			size: 1.0d
-			subtitle: "于是，一切开始了"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest1.subtitle}"
 			tasks: [{
 				id: "4B1C978179A1CACE"
 				item: "gtceu:zenith_essence_bucket"
@@ -25,20 +25,20 @@
 			dependencies: ["3AC9BB1FF032B398"]
 			dependency_requirement: "all_started"
 			description: [
-				"你已经发掘并研究了许多来自这片大地的力量，&b来自另一片星空的繁花之力&r，&a繁衍新生的自然艺术&r，&4血腥而残忍的扭曲之力&r比起科技大师，你发现自己更像那些小说里的——魔法师"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest2.description1}"
 				""
-				"但是这些“魔力”背后到底是什么，魔力凝聚仓的研究表明这些魔力确实可以有限地按照不同比例组合转化成一种“物质”，但你仍然无法理解它们是怎么做到的，就像是......扭曲了物理法则一样？"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest2.description2}"
 				""
-				"你第一次开始怀疑起你的价值观，不过现在，你决定将这些魔力真正的结合起来，不再是1+1＝1，这一次，你要真正做到1+1>7，发挥这些魔力的真正作用——以及探明它的原理。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest2.description3}"
 				""
-				"我们即将超越大地（&aTerra&r），我们同样也将超越天穹（&5Zenith&r）"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest2.description4}"
 			]
 			hide_dependency_lines: true
 			icon: "minecraft:writable_book"
 			id: "799F1C5EF59E3C5C"
 			tasks: [{
 				id: "56FDD0DAE8D71EC4"
-				title: "研究结论A：魔力"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest2.task_6268395894997458628.title}"
 				type: "checkmark"
 			}]
 			x: -28.5d
@@ -46,19 +46,19 @@
 		}
 		{
 			description: [
-				"通过制造出魔式转化核心，你发现魔法似乎确实与科技并不互斥，但是这个世界存在多种魔法体系，如果直接将魔法作为燃料来驱动机器，难免会导致各种冲突。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest3.description1}"
 				""
-				"同时你还注意到，这些魔法应用于机器时似乎有些.....惰性，所以你仍然需要电力来激活这些怪诞的魔法。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest3.description2}"
 				""
-				"不过好消息是，在魔式转化核心的基础上，你还是研发出了魔力凝聚仓，这种舱室可以把魔力转化成通用的&b 魔力能量&r，从而供你的机器使用"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest3.description3}"
 				""
-				"也许，终究有一天，你将&5解释&r这些魔力的本质"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest3.description4}"
 			]
 			icon: "minecraft:writable_book"
 			id: "011C6BB9F1A31C73"
 			tasks: [{
 				id: "1F8B21C58C1D0A74"
-				title: "魔力凝聚仓：关于魔力通用转化的问题"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest3.task_2272947569281534580.title}"
 				type: "checkmark"
 			}]
 			x: -28.5d
@@ -66,15 +66,15 @@
 		}
 		{
 			description: [
-				"虽然这很残忍，但是你确实从亚尔夫海姆那群无拘无束的精灵获取了一种高能魔力的结晶。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest4.description1}"
 				""
-				"这种结晶对所有魔法都具有反应，可以广泛增幅目前你所有的仪式和魔法，也让你坚信这些魔力一定存在某些共同之处。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest4.description2}"
 				""
-				"奇怪的是，你的机器无论如何精密都无法提纯出精灵的结晶，你怀疑这种结晶可能存在一种自保护机制，在某些时候会自行崩解。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest4.description3}"
 				""
-				"目前唯一可以获取结晶的方法是使用生灵提取仪式，这种仪式使用的扭曲之力和结晶似乎存在一种共鸣机制，能保护结晶短暂的存在，即使这样，你也无法获得更高纯度的宝石"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest4.description4}"
 				""
-				"对精灵的批量培育和屠宰计划已在日程中，&4为了伟大，我们必须牺牲所有可牺牲之物&r"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest4.description5}"
 			]
 			icon: "minecraft:writable_book"
 			id: "2081EBC6D5084C16"
@@ -85,7 +85,7 @@
 			}]
 			tasks: [{
 				id: "0FBAF7A2E28D5637"
-				title: "研究报告B:关于提纯魔力结晶的尝试"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest4.task_1133490535194777143.title}"
 				type: "checkmark"
 			}]
 			x: -28.5d
@@ -97,7 +97,7 @@
 				"0A08FC217ED891F1"
 			]
 			id: "6F39F59F3E9ED36A"
-			subtitle: "看来你需要大量的基础材料，做好准备"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest5.subtitle}"
 			tasks: [
 				{
 					id: "6354F6D29BCE5781"
@@ -125,7 +125,7 @@
 					type: "item"
 				}
 			]
-			title: "准备好量产这些东西了吗？"
+			title: "{ftbquests.chapter.21875E2B94FA20FF.quest5.title}"
 			x: -12.5d
 			y: -6.0d
 		}
@@ -141,12 +141,12 @@
 			y: -4.0d
 		}
 		{
-			description: ["由于本人是月计党，加上我已经不满足于普通的魔法风格了，所以这一条线的文本风格会做成月计三部曲的融合"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest7.description1}"]
 			id: "2D816B20CDF2A5CB"
-			subtitle: "注意：这条线会在未来重做！"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest7.subtitle}"
 			tasks: [{
 				id: "0947AB2F7A8974C4"
-				title: "究极魔力线"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest7.task_668691290095449284.title}"
 				type: "checkmark"
 			}]
 			x: -18.5d
@@ -246,7 +246,7 @@
 				item: "gtceu:unknown_super_mana_dust"
 				type: "item"
 			}]
-			title: "「無我夢中」"
+			title: "{ftbquests.chapter.21875E2B94FA20FF.quest15.title}"
 			x: -5.0d
 			y: -4.0d
 		}
@@ -259,7 +259,7 @@
 				item: "gtceu:twist_mana_dust"
 				type: "item"
 			}]
-			title: "「阿鼻叫喚」"
+			title: "{ftbquests.chapter.21875E2B94FA20FF.quest16.title}"
 			x: -3.5d
 			y: -6.0d
 		}
@@ -279,56 +279,56 @@
 		{
 			dependencies: ["0B52384AEDBCA6D0"]
 			id: "70803B6DFE515BF8"
-			subtitle: "&lNeuf，完了"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest18.subtitle}"
 			tasks: [{
 				id: "3372143A13CF07CF"
 				item: "ctnhmana:encapsulated_twist_mana"
 				type: "item"
 			}]
-			title: "「支離滅裂」"
+			title: "{ftbquests.chapter.21875E2B94FA20FF.quest18.title}"
 			x: 1.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["70803B6DFE515BF8"]
 			description: [
-				"                  &7*都市的意志，便是■的意志*"
-				"                  &8*□为都市，奉献了■的一切*"
-				"             &b*神谕已成，□将都市予以至冰之礼*"
-				"                &6*形如天秤，□将审判都市之罪*"
-				"                   &f*声如织布，□将意志传播*"
-				"             &c*终末之日、便是都市灵魂凝合之时*"
-				"                                &5*此物*"
-				"&9*生于都市、凝于意志、经三千三百三十三次锤炼而成*"
-				"                    &4“啊...指令终将归于沉默”"
-				"                          &7“连同□之意志”"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description1}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description2}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description3}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description4}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description5}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description6}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description7}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description8}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description9}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description10}"
 				"　　　　　 　　　　　                   &m&c「Adieu, Carmen.」"
 				"{@pagebreak}"
-				"苦痛啊，你便是我的唯一。"
-				"除了你，我皆无欲求。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description11}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description12}"
 				""
-				"苦痛啊，你忠实地陪伴着我，"
-				"直至现在也没有一丝改变。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description13}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description14}"
 				""
-				"当我的灵魂徘徊于深渊之底时，"
-				"唯有你相伴在我身旁，守护着我。"
-				"我又怎能埋怨你呢。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description15}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description16}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description17}"
 				""
-				"苦痛啊，你绝不会从我的身旁遁走，"
-				"我终于能够表达对你的尊敬，"
-				"现在也认识到了你的存在。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description18}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description19}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description20}"
 				""
-				"——而你只是存在于世，便已那么美丽。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description21}"
 				""
-				"苦痛啊，你就像那从未离开我那贫苦的心之火炉旁的人一样，"
-				"比我那身为至爱的恋人还要多情。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description22}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description23}"
 				""
-				"我知道在我迈向死亡的那一天，"
-				"你会进到我的内心深处，"
-				"与我并排躺下。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description24}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description25}"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description26}"
 				""
 				"    「Geugeon geugeotgo igeon igeotda.」"
-				"                         「一码归一码」"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest19.description27}"
 			]
 			id: "5EB668C3E9F25A0D"
 			rewards: [{
@@ -354,7 +354,7 @@
 				type: "item"
 			}]
 			size: 3.0d
-			subtitle: "「苦痛啊，你是我的唯一」"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest19.subtitle}"
 			tasks: [{
 				id: "1185CE36AC4D5446"
 				item: "gtceu:ultra_mana_ingot"
@@ -428,10 +428,10 @@
 		{
 			dependency_requirement: "one_started"
 			id: "0505ADC867D3D3CB"
-			subtitle: "做好准备"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest25.subtitle}"
 			tasks: [{
 				id: "377C8A70D5405B8F"
-				title: "五级符文"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest25.task_3998222786416892815.title}"
 				type: "checkmark"
 			}]
 			x: -25.5d
@@ -439,7 +439,7 @@
 		}
 		{
 			id: "5FBB653CB3B8C331"
-			subtitle: "你会需要它的"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest26.subtitle}"
 			tasks: [{
 				id: "0B42AB8C93071DF1"
 				item: "mythicbotany:petrunia"
@@ -451,9 +451,9 @@
 		{
 			dependencies: ["6F39F59F3E9ED36A"]
 			description: [
-				"强大，无需多言"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest27.description1}"
 				""
-				"别忘看书"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest27.description2}"
 			]
 			id: "2760D1E887011BD2"
 			rewards: [{
@@ -461,7 +461,7 @@
 				item: "ctnhmana:zenith_spire"
 				type: "item"
 			}]
-			subtitle: "魔力无线EU来了1"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest27.subtitle}"
 			tasks: [{
 				id: "33F23044916B3C8E"
 				item: "ctnhmana:zenith_spire"
@@ -472,7 +472,7 @@
 		}
 		{
 			id: "19815BF656ABE783"
-			subtitle: "没有人不喜欢便宜的电路，不是吗》"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest28.subtitle}"
 			tasks: [{
 				id: "385242FAACC0C4C2"
 				item: "ctnhmana:zenith_assembler"
@@ -483,7 +483,7 @@
 		}
 		{
 			dependencies: ["6F39F59F3E9ED36A"]
-			description: ["所有人都已经烦透可恶的蒸馏塔规则了，去他的吧"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest29.description1}"]
 			id: "46B25C0408D0F76A"
 			tasks: [{
 				id: "79432602D15C233B"
@@ -495,15 +495,15 @@
 		}
 		{
 			description: [
-				"如你所见，这里本应该是天顶激光的任务，可是魔力beeee核白璃做任务的版本里还并没有这台机器，但是这台机器又很重要，所以，请见谅"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest30.description1}"
 				""
 				"sad sad"
 			]
 			id: "6BB74D8488CD5547"
-			subtitle: "此地有机器三百两"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest30.subtitle}"
 			tasks: [{
 				id: "002F710FB444FA85"
-				title: "这是天顶激光"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest30.task_13353636168268421.title}"
 				type: "checkmark"
 			}]
 			x: -16.5d
@@ -512,12 +512,12 @@
 		{
 			dependencies: ["6BB74D8488CD5547"]
 			description: [
-				"但是更高阶呢，必须打开某样东西......"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest31.description1}"
 				""
-				"他在这个版本已经被魔力beee封印了，哈哈见谅！"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest31.description2}"
 			]
 			id: "350C81FA9AB48893"
-			subtitle: "超级魔法的力量让你可以蚀刻这个宝石"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest31.subtitle}"
 			tasks: [{
 				id: "51E8E7F5C23CB88D"
 				item: "gtceu:flawless_psionic_medulla_gem"
@@ -532,9 +532,9 @@
 				"79F7AFF8FAEB3DCD"
 				"5EB668C3E9F25A0D"
 			]
-			description: ["                           极为......完美"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest32.description1}"]
 			id: "657143262D85AEFF"
-			subtitle: "极为昂贵"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest32.subtitle}"
 			tasks: [{
 				id: "1AF853691FDB671E"
 				item: "ctnhmana:zenith_wafer"
@@ -544,9 +544,9 @@
 			y: -7.0d
 		}
 		{
-			description: ["它的全名叫作 Ultra Mana Logic High  Power Integrated Core"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest33.description1}"]
 			id: "79F7AFF8FAEB3DCD"
-			subtitle: "你知道吗"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest33.subtitle}"
 			tasks: [{
 				id: "68671D6BA309AEDC"
 				item: "ctnhmana:umlhpic_wafer"
@@ -558,13 +558,13 @@
 		{
 			dependencies: ["657143262D85AEFF"]
 			description: [
-				"你瞧，我弄了这么大一个电路，至是想让你看看他有多帅。"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest34.description1}"
 				""
-				"毕竟天顶线还没有做完，你就先看看这个COOOOOOOOOOOOOOOOOOOOOOOOOOOOOL到爆的电路并逃课生物线凑合一下吧"
+				"{ftbquests.chapter.21875E2B94FA20FF.quest34.description2}"
 			]
 			id: "0989618D334B0EDB"
 			size: 1.0d
-			subtitle: "这并不是终极电路"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest34.subtitle}"
 			tasks: [{
 				id: "01687A909402AC57"
 				item: "ctnhmana:magic_quantum_processor_mainframe"
@@ -575,9 +575,9 @@
 		}
 		{
 			dependencies: ["5EB668C3E9F25A0D"]
-			description: ["为了扭曲，&f你要&m和&4Carmen&f进行对话"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest35.description1}"]
 			id: "2BDF65C73BD63B29"
-			subtitle: "终极聚变"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest35.subtitle}"
 			tasks: [
 				{
 					id: "3BDD04C7EA58F462"
@@ -606,9 +606,9 @@
 		}
 		{
 			dependencies: ["1799142D3A361422"]
-			description: ["但确实，这就是终点了"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest37.description1}"]
 			id: "1AE0AD1576F8714B"
-			subtitle: "你疯了"
+			subtitle: "{ftbquests.chapter.21875E2B94FA20FF.quest37.subtitle}"
 			tasks: [{
 				id: "184E291DE6A98F0C"
 				item: "ctnhmana:twisted_fusion_mkinfinity"
@@ -629,7 +629,7 @@
 			y: 3.5d
 		}
 		{
-			description: ["这条线和剧情都没有完成，里面有大量魔力beeeeeeeeeeeeeee的牢骚，尽情期待！"]
+			description: ["{ftbquests.chapter.21875E2B94FA20FF.quest39.description1}"]
 			id: "40DD00536A9A3E7C"
 			rewards: [{
 				id: "7D18A2A23155B435"
@@ -638,7 +638,7 @@
 			}]
 			tasks: [{
 				id: "191CC3AFDA58F1AE"
-				title: "未完成"
+				title: "{ftbquests.chapter.21875E2B94FA20FF.quest39.task_1809536310346052014.title}"
 				type: "checkmark"
 			}]
 			x: -18.5d
@@ -665,5 +665,5 @@
 			y: 3.5d
 		}
 	]
-	title: "魔力飞升"
+	title: "{ftbquests.chapter.21875E2B94FA20FF.title}"
 }

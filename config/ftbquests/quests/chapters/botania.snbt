@@ -2677,9 +2677,9 @@
 		}
 		{
 			dependencies: ["584176B147B6FB76"]
-			description: ["这朵花的机制较为危险，请查阅对应词典条目，导致的物品和机器被焚烧魔力bee不负责"]
+			description: ["{ftbquests.chapter.botania.quest120.description1}"]
 			id: "21C141240D78EE84"
-			subtitle: "与烈焰中抵达空无之境"
+			subtitle: "{ftbquests.chapter.botania.quest120.subtitle}"
 			tasks: [{
 				id: "5D54BCB909F3C1D6"
 				item: "ctnhmana:anatta_lotus"
@@ -2690,9 +2690,9 @@
 		}
 		{
 			dependencies: ["584176B147B6FB76"]
-			description: ["最强的被动产魔花，并不代表它没有机制，别忘了查书XD"]
+			description: ["{ftbquests.chapter.botania.quest121.description1}"]
 			id: "09F28BDEEA462C60"
-			subtitle: "大爆炸理论"
+			subtitle: "{ftbquests.chapter.botania.quest121.subtitle}"
 			tasks: [{
 				id: "70D22EE805F09214"
 				item: "ctnhmana:genethistle"
@@ -2704,12 +2704,12 @@
 		{
 			dependencies: ["764C52D60D1AA339"]
 			description: [
-				"如果想要获得它，你就需要在野外找到一个独特的结构，这个结构的刷新率极低且也只会刷新在海上"
+				"{ftbquests.chapter.botania.quest122.description1}"
 				""
-				"不如......试试结构指南针？"
+				"{ftbquests.chapter.botania.quest122.description2}"
 			]
 			id: "5352AD7B98194CCC"
-			subtitle: "无间地狱的背德之心"
+			subtitle: "{ftbquests.chapter.botania.quest122.subtitle}"
 			tasks: [{
 				id: "16F991A506D4003C"
 				item: "ctnhmana:pararosia"
@@ -2721,7 +2721,7 @@
 		{
 			dependencies: ["4E6FA7D29EBE9339"]
 			id: "3958E5F6EB24F4DA"
-			subtitle: "为什么不看看植物魔法辞典呢？"
+			subtitle: "{ftbquests.chapter.botania.quest123.subtitle}"
 			tasks: [
 				{
 					id: "382310631A97DC57"
@@ -2739,21 +2739,21 @@
 					type: "item"
 				}
 			]
-			title: "尖塔升级们"
+			title: "{ftbquests.chapter.botania.quest123.title}"
 			x: 5.0d
 			y: -8.5d
 		}
 		{
 			description: [
-				"超越金刚杵的存在"
+				"{ftbquests.chapter.botania.quest124.description1}"
 				""
-				"具有极高的伤害，多种形态，超级镐力，还有比这更完美的存在吗？"
+				"{ftbquests.chapter.botania.quest124.description2}"
 				""
-				"哔哔......遵循指令之意......"
+				"{ftbquests.chapter.botania.quest124.description3}"
 			]
 			id: "2A1512F3FBD16ED7"
 			size: 2.0d
-			subtitle: "遵从指令之意"
+			subtitle: "{ftbquests.chapter.botania.quest124.subtitle}"
 			tasks: [{
 				id: "0C7109E16ED2E364"
 				item: {
