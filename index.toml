@@ -10594,6 +10594,11 @@ hash = "b203c7b6b0685486475cc9a582c362b0becc9f197b31c3bff573a7aec9757be1"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
+metafile = true
+
+[[files]]
 file = "mods/event-wrapper.pw.toml"
 hash = "4a9bb12d538396f982ca4b2ffa26136a11c46831cd9bb90a2ec77c497df053a9"
 metafile = true
