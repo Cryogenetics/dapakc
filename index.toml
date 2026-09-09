@@ -5,10 +5,6 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "_recipe-audit/dapakc_recipe_gates.js"
-hash = "b0f5a8ef65ae88dd957f49fb24be88f21e78503ba04002589669c7f91a72a8ac"
-
-[[files]]
 file = "config/ModernUI/D-DIN-PRO-400-Regular.ttf"
 hash = "43a13a27d9c67e96efab806b9396ffec7d256ca1b424589f09ee9a5d48f653fc"
 
