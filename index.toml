@@ -9889,7 +9889,7 @@ hash = "f468d7245498128c34e614ada4dc74041fd84d61ac1e4249251bbeed1262df44"
 
 [[files]]
 file = "kubejs/server_scripts/src/dapakc_recipe_gates.js"
-hash = "b0f5a8ef65ae88dd957f49fb24be88f21e78503ba04002589669c7f91a72a8ac"
+hash = "d6ebf39a58fff84849b24d36ef172bed579db2eb42583d83ac6060ed20e35490"
 
 [[files]]
 file = "kubejs/server_scripts/src/decorate_block_recipe.js"
