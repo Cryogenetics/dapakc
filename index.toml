@@ -11374,7 +11374,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bda356adb3a7bb57d65404efc9a54fc14f7a6e031674bdf4d06ea74d608418c0"
+hash = "44d754e9784c8856acb5697583c403d0344b058b9c11f41e076db9472b39e1f1"
 preserve = true
 
 [[files]]
@@ -11392,6 +11392,10 @@ hash = "f05b71bf98ec3b97010b1665eb76f1aa907b5d6ae753d16733a29ef3116c779b"
 [[files]]
 file = "resourcepacks/CTNH-Retextured.zip"
 hash = "6deaab32f77cfcd21af5669e765010c4557f96b840b5e91c26cd041628c47243"
+
+[[files]]
+file = "resourcepacks/CTNH-lang-en_us-ctnh-1.5.0-r1.zip"
+hash = "7f02c620c97cb60b4f0839fbb0a16b100d37b80873fa7bf9414503a7ff629d89"
 
 [[files]]
 file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip"
