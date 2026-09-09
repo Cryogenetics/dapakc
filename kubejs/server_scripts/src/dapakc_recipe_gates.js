@@ -148,4 +148,59 @@ ServerEvents.recipes(event => {
 
     // createcasing:creative_casing and its chorium line are left alone —
     // decorative, per your call.
+
+    // =====================================================================
+    // 5. Power Grid — remove its power conversion, keep the electronics.
+    //    CTNH already owns EU <-> rotation, tiered, in CTPP:
+    //      Kinetic Output Box (EU -> rotation)  ULV .. LV HV EV IV LuV
+    //                                           UHV UEV UIV UXV OpV MAX
+    //      Kinetic Input Box  (rotation -> EU)  same ladder
+    //      Kinetic Generator  (rotation -> EU, wants lubricant)
+    //      Kinetic Steam Turbine, Kinetic Create Mixer, Electric Gearbox
+    //    All enabled in config/ctpp.yaml, torque scaling 4.0 with voltage
+    //    level — so more stress means climbing GregTech, by design.
+    //    Power Grid duplicates both directions at andesite tier, ungated,
+    //    because CTNH has no idea it is installed. Every removal below has a
+    //    CTNH equivalent; nothing is lost from the pack.
+    //    KEPT: FE Inverter, Device Connector, batteries, and the whole
+    //    electronics/logic layer, which has no CTNH counterpart and is the
+    //    entire reason to run the mod.
+    // =====================================================================
+
+    // -- electricity -> rotation.  CTNH: Kinetic Output Box (15 tiers).
+    //    Power Grid's motor is copper coils + a magnet + a shaft, and its
+    //    stress capacity scales with Power Grid voltage (raised with
+    //    transformers) rather than with GregTech tier. Flat bypass.
+    ;['powergrid:electric_motor', 'powergrid:constant_speed_motor']
+        .forEach(id => { if (Item.exists(id)) event.remove({ output: id }) })
+
+    // -- rotation -> electricity.  CTNH: Kinetic Input Box, Kinetic Generator.
+    //    Also duplicates create_new_age, which CTNH gates behind
+    //    gtceu:resin_printed_circuit_board.
+    ;[
+        'powergrid:generator_housing',
+        'powergrid:vertical_generator_housing',
+        'powergrid:generator_induction_rotor',
+        'powergrid:generator_large_induction_rotor',
+        'powergrid:generator_commutator',
+        'powergrid:generator_vertical_commutator',
+        'powergrid:generator_clutch',
+    ].forEach(id => { if (Item.exists(id)) event.remove({ output: id }) })
+
+    // -- free energy. No CTNH equivalent because there isn't one.
+    ;['powergrid:solar_panel', 'powergrid:ceiling_tile_solar', 'powergrid:solar_panel_bearing']
+        .forEach(id => { if (Item.exists(id)) event.remove({ output: id }) })
+
+    // -- the joke starter cell; a trickle source once generation is gone.
+    if (Item.exists('powergrid:potato_battery')) {
+        event.remove({ output: 'powergrid:potato_battery' })
+    }
+
+    // ORDERING CONSEQUENCE: Power Grid now has no power of its own. Electricity
+    // enters only through the FE Inverter, so it comes from CTNH's economy —
+    // GT cables emit FE natively (compat.energy.nativeEUToFE), and Create: New
+    // Age makes FE behind its RPCB gate. The electronics layer therefore moves
+    // behind the pack's first electricity gate. Intended, but it is a change to
+    // when the mod becomes usable.
+
 })
