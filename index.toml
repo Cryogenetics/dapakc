@@ -10428,11 +10428,6 @@ hash = "b6a72e03796007d5a6eabc4451753d0cb3fcd162c0c5da44be595ae22627f30e"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "efb152bc43580297f2c118400addb5a75a2713d9992f9a049d376b6ad2023787"
-metafile = true
-
-[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "8d3f40c638fa0085a62a3ac477a3f2ed23e63af62da2cdf502183fa0bddbca7c"
 metafile = true
@@ -10595,11 +10590,6 @@ metafile = true
 [[files]]
 file = "mods/eu-p2p-tunnel.pw.toml"
 hash = "b203c7b6b0685486475cc9a582c362b0becc9f197b31c3bff573a7aec9757be1"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
 metafile = true
 
 [[files]]
@@ -11315,11 +11305,6 @@ metafile = true
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
 hash = "a31c8889d42f393a1967de0a7bf3ed0e919f342f40cf94237aba8d2b1cca8e7f"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
