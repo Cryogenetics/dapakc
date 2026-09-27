@@ -1,0 +1,18 @@
+name = "Archive World Downloader"
+filename = "archive-wdl-forge-1.3.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6JOJ1sf/versions/HoZJxgxk/archive-wdl-forge-1.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "46ece70b7c9862a7c806796fb5043f56a20628e1895c531550eeac1e9391a20aaff0ec3df1b774950b1df8888c26b4ac3863f52fd6084273db189a07288d08f5"
+
+[update]
+[update.modrinth]
+mod-id = "x6JOJ1sf"
+version = "HoZJxgxk"
+
+[option]
+optional = true
+default = true
+description = "Download your base as a single-player world (makes it easier to plan designs for schematiccannon)"
